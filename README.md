@@ -3,6 +3,7 @@
 ## This project is basically done to practice the concepts of React.js such as Components , Useref , setstate , useState , imports , props and etc
 ## Understanding the usage of React.js files such as App.jsx , index.css 
 ## Here the Landing Page is Responsive too , the first image shows the page at an deskstop resolution and the second image shows the page are mobile resolution
+## And Have Used Web3Forms API in the Contact Us section to get the Information passed by the customer through the registered email via API
 
 ## First Section : [ Hero Section ] 
 
